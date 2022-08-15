@@ -1,6 +1,6 @@
 # myogenic-dev-embryo
 
-Shufang Cai, Delin Mo, **et al**., State Key Laboratory of Biocontrol, School of Life Sciences, Sun Yat-sen University, Guangzhou, Guangdong, China.
+Shufang Cai, Delin Mo, *et al*., State Key Laboratory of Biocontrol, School of Life Sciences, Sun Yat-sen University, Guangzhou, Guangdong, China.
 
 
 
